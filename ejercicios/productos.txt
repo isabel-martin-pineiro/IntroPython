@@ -1,0 +1,5 @@
+Manzanas:2.50
+Plátanos:1.75
+Naranjas:3.00
+Papas:0.50
+Cebollas:0.75
